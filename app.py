@@ -191,7 +191,7 @@ st.markdown("""
 st.markdown("""
 <div class="main-header">
     <h1>📘 TRỢ LÝ SOẠN GIÁO ÁN TỰ ĐỘNG (NLS)</h1>
-    <p>Tác giả: Mạc Thị Hương - Trường PTDTBT Tiểu học Ma Lé - ĐT: 038 494 2025</p>
+    <p>Tác giả: Mạc Thị Hương - Trường PTDTBT Tiểu học Ma Lé - ĐT: 0384 942 025</p>
 </div>
 """, unsafe_allow_html=True)
 
